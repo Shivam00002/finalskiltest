@@ -4,6 +4,8 @@ import Image from "next/image";
 const Header: React.FC = () => {
   return (
     <div className="flex py-2 px-2 items-center">
+
+      
       <div>
         <Image
           width={65}
