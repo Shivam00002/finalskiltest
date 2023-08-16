@@ -10,14 +10,19 @@ const Responses: React.FC = () => {
         <span>3</span>
       </div>
       <div className="flex space-x-2 items-center">
+
         <Dot color={"black"} />
         <span>33</span>
       </div>
+
       <div className="flex space-x-2 items-center">
+
         <Dot color={"gray"} />
         <span>47</span>
       </div>
+
       <div className="flex space-x-2 items-center">
+
         <Dot color={"orange"} />
         <span>13</span>
       </div>
