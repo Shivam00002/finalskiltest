@@ -30,6 +30,7 @@ const Result = () => {
 //         </h1>
 
 //         <div className="hidden md:grid md:grid-cols-5 lg:grid-cols-8 grid-cols-4 mt-5 border ">
+
 //           <div className="  text-left px-2  full h-16">
 //             <p className="font-semibold md:text-center text-left text-green-600 text-sm md:text-lg ">0/30</p>
 
