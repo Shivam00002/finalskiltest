@@ -13,6 +13,8 @@ const Instructions: React.FC<{ setIsActive: (isActive: boolean) => void }> = ({ 
     if (!checked) {
       setIsDisabled(false);
     }
+
+
   }
 
   const NextButtonActive = () => {
