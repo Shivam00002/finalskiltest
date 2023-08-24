@@ -15,6 +15,7 @@ const Header: React.FC = () => {
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Default_pfp.svg/800px-Default_pfp.svg.png"
         />
       </div>
+
       <div className="px-4">
         <h2 className="text-center text-[16px] font-semibold">
           Shivam Dubey
