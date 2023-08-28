@@ -8,6 +8,7 @@ const ResultHeader: React.FC = () => {
       <div className="md:flex hidden top-0 py-2 fixed px-3 w-full border justify-between overflow-hidden bg-white items-center">
         <div className="flex gap-10">
           <Link href="#" className="w-[160px] md:w-[250px] h-[52px] relative inline-block -translate-x-4 cursor-pointer">
+
             <Image
               width={250}
               height={50}
@@ -15,6 +16,7 @@ const ResultHeader: React.FC = () => {
               alt="logo"
               className="object-contain w-full h-full absolute left-3"
             />
+
           </Link>
           <h2 className="mt-3 text-[15px] flex font-semibold ">
             UPSC Civil Services
