@@ -11,7 +11,8 @@ const FullScreenButton: React.FC = () => {
       } else if (docElement.mozRequestFullScreen) {
         docElement.mozRequestFullScreen();
       } else if (docElement.webkitRequestFullscreen) {
-        docElement.webkitRequestFullscreen();
+       
+ docElement.webkitRequestFullscreen();
       } else if (docElement.msRequestFullscreen) {
         docElement.msRequestFullscreen();
       }
