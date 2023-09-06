@@ -9,6 +9,7 @@ interface AccordianProps {
 export const Accordian: React.FC<AccordianProps> = ({ children, title }) => {
   const [isActive, setIsActive] = useState(true);
 
+
   return (
     <div>
       <div className="flex items-center justify-between border-b-2 mt-3">
