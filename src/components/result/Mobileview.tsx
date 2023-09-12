@@ -8,6 +8,7 @@ import { SiSimpleanalytics } from 'react-icons/si';
 const Mobileview: React.FC = () => {
   return (
     <>
+
       <div className="grid grid-cols-3 mt-2 md:hidden">
         <div className="border-r border-b place-items-center px-2 full h-16 grid place-content-center">
           <p className="font-semibold md:text-center text-left text-green-600 text-sm md:text-lg">0/30</p>
