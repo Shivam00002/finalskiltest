@@ -13,6 +13,7 @@ const LeftAnsPie: React.FC = () => {
         data: [700, 300],
         backgroundColor: ['#EEEEEE', '#f9bd09'],
         hoverBackgroundColor: ['#EEEEEE', '#f9bd09'],
+
       },
     ],
   };
