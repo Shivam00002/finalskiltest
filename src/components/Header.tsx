@@ -9,7 +9,9 @@ export const Header= () => {
   const handleFullScreen = async (): Promise<void> => {
     if (!isFullScreen) {
       if (document.documentElement.requestFullscreen) {
-        document.documentElement.requestFullscreen();
+       
+
+ document.documentElement.requestFullscreen();
       } else if (document.documentElement.requestFullscreen) {
         document.documentElement.requestFullscreen();
       } else if (document.documentElement.requestFullscreen) {
