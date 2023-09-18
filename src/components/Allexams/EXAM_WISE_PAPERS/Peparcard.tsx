@@ -14,6 +14,7 @@ const Peparcard: React.FC = () => {
             <p>3 Attempts</p>
           </div>
         </div>
+
         <div className='hidden md:flex px-2 py-1 md:mt-2 text-gray-600 justify-between'>
           <p>
             <span className='w-1 h-1 bg-gray-600 rounded-full inline-flex mb-[4px]'></span> Attempts
