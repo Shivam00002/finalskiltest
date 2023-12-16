@@ -9,9 +9,7 @@ const QuestionPalette: React.FC = () => {
           Question Palette
         </h2>
       </div>
-
-
-      <div className="w-full grid grid-cols-3 px-0 ml-3">
+ <div className="w-full grid grid-cols-3 px-0 ml-3">
         <div className="flex items-center">
           <Dot color={"green"} />
           <p className="text-[14px]  text-[gray] px-1 py-1">Attempted</p>
