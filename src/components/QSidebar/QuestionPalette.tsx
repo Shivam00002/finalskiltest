@@ -17,6 +17,7 @@ const QuestionPalette: React.FC = () => {
         <div className="flex items-center">
           <Dot color={"black"} />
           <p className="text-[14px]  text-[gray] px-0 ml-1 py-1">Unattempted</p>
+
         </div>
         <div className="flex items-center ml-3">
           <Dot color={"gray"} />
