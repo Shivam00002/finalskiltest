@@ -12,6 +12,7 @@ const PieChart: React.FC = () => {
       {
         data: [700, 300],
         backgroundColor: ['#008000', '#EEEEEE'],
+
         hoverBackgroundColor: ['#008000', '#EEEEEE'],
       },
     ],
