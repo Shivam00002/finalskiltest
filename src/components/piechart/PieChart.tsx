@@ -4,6 +4,7 @@ import { Chart, ArcElement } from 'chart.js';
 
 Chart.register(ArcElement);
 
+
 const PieChart: React.FC = () => {
   // Define your chart data
   const data = {
