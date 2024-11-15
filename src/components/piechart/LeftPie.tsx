@@ -6,6 +6,7 @@ Chart.register(ArcElement);
 
 const LeftAnsPie: React.FC = () => {
   // Define your chart data
+
   const data = {
     labels: ['gray', 'yellow'],
     datasets: [
