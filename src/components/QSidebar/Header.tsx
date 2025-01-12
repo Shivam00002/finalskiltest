@@ -11,7 +11,6 @@ const Header: React.FC = () => {
           width={65}
           height={65}
    
-
        alt="user-profile"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Default_pfp.svg/800px-Default_pfp.svg.png"
         />
