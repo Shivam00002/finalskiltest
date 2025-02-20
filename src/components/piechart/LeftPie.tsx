@@ -20,6 +20,7 @@ const LeftAnsPie: React.FC = () => {
   };
 
 
+
   return <Pie data={data} />;
 };
 
